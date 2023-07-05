@@ -7,6 +7,7 @@
   <li>JavaScript</li>
   <li>Vue.js</li>
   <li>PHP</li>
+  <li>C/C++</li>
 </ul>
 
 <img src="foto_github[1].jpg" width="325px">
