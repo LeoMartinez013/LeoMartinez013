@@ -6,7 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Cronometro&show_owner=true)](https://github.com/LeoMartinez013/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Lanchonete&show_owner=true)](https://github.com/LeoMartinez013/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMartinez013&layout=donut-vertical)](https://github.com/LeoMartinez013/github-readme-stats) <img src="foto_github[1].jpg" width="325px">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMartinez013&layout=compact)](https://github.com/LeoMartinez013/github-readme-stats) <img src="foto_github[1].jpg" width="325px">
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMartinez013&show_icons=true&theme=dracula&border_radius=5)](https://github.com/LeoMartinez013/github-readme-stats)
 
 
