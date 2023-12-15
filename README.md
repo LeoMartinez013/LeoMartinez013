@@ -1,6 +1,6 @@
 
-<h3>Olá, eu sou novo por aqui, estou estudando para ser um programador Full-Stack.</h3>
-<p>Ainda tenho muito o que estudar.</p>
+<h3>Olá, sou novo por aqui, estou estudando para ser um programador Full-Stack.</h3>
+
 <p>Para mais informações, meu portfólio está <a href="https://leomartinez013.github.io/Portfolio/" target="_blank">aqui</a></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Cronometro&show_owner=true)](https://github.com/LeoMartinez013/github-readme-stats)
