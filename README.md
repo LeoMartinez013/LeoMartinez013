@@ -4,9 +4,18 @@
 <p>Para mais informações, meu portfólio está <a href="https://leomartinez013.github.io/Portfolio/" target="_blank">aqui</a></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Cronometro&show_owner=true)](https://github.com/LeoMartinez013/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Lanchonete&show_owner=true)](https://github.com/LeoMartinez013/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Lanchonete&show_owner=true)](https://github.com/LeoMartinez013/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMartinez013&layout=compact)](https://github.com/LeoMartinez013/github-readme-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMartinez013&show_icons=true&theme=dracula&border_radius=5)](https://github.com/LeoMartinez013/github-readme-stats)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+          
+
 <img src="foto_github[1].jpg" width="325px">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMartinez013&layout=compact)](https://github.com/LeoMartinez013/github-readme-stats)
+
 
 
