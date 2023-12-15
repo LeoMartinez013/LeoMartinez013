@@ -3,6 +3,9 @@
 <p>Ainda tenho muito o que estudar.</p>
 <p>Para mais informações, meu portfólio está <a href="https://leomartinez013.github.io/Portfolio/" target="_blank">aqui</a></p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Cronometro)](https://github.com/LeoMartinez013/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Lanchonete)](https://github.com/LeoMartinez013/github-readme-stats)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMartinez013&show_icons=true&theme=dracula&border_radius=5)](https://github.com/LeoMartinez013/github-readme-stats)
 
 
