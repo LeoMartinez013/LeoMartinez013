@@ -3,7 +3,7 @@
 
 <p>Para mais informações, sinta-se a vontade para conferir meu <a href="https://leomartinez013.github.io/Portfolio/" target="_blank">portfólio</a></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Jogo_da_Velha_Vuejs&show_owner=false)](https://github.com/LeoMartinez013/jogodavelha-vue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=jogodavelha-vue&show_owner=false)](https://github.com/LeoMartinez013/jogodavelha-vue)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Cronometro&show_owner=false)](https://github.com/LeoMartinez013/Cronometro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Lanchonete&show_owner=false)](https://github.com/LeoMartinez013/Lanchonete)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=Gerenciamento-de-Processos&show_owner=false)](https://github.com/LeoMartinez013/Gerenciamento-de-Processos)
