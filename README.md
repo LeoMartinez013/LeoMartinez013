@@ -1,6 +1,3 @@
-
-<h3>Olá, sou novo por aqui, estou estudando para ser um programador Full-Stack.</h3>
-
 <p>Para mais informações, sinta-se a vontade para conferir meu <a href="https://leomartinez013.github.io/Portfolio/" target="_blank">portfólio</a></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMartinez013&repo=jogodavelha-vue&show_owner=false)](https://github.com/LeoMartinez013/jogodavelha-vue)
